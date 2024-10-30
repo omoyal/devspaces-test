@@ -9,4 +9,4 @@ metadata:
 components:
   - name: tools-container
     container:
-      image: registry.redhat.io/ubi8/python-39
+      image: registry.redhat.io/ubi8/python-39:latest
